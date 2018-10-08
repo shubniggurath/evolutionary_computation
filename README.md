@@ -1,7 +1,7 @@
 # Evolutionary computation
-Exercices done in the Evolutionary computation class
+Exercise done in the Evolutionary computation class
 
-This repo is divided in varios sections (I will be adding new sections in the future):
+This repository is divided in varios sections (I will be adding new sections in the future):
 
   - Evolutionary Strategies
   
