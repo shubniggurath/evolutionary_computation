@@ -1,2 +1,2 @@
-# evolutionary_computation
+# Evolutionary computation
 Exercices done in the class for Evolutionary computation
