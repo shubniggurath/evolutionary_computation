@@ -1,5 +1,5 @@
 # Evolutionary computation
-Exercise done in the Evolutionary computation class
+Exercises done in the Evolutionary computation class
 
 This repository is divided in varios sections (I will be adding new sections in the future):
 
